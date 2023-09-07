@@ -19,4 +19,4 @@ Features:
     -The page where all projects are listed and manage along with their details and status.
 -Users Page
     -The page where can system admin manages the list of system users.
-How to install:
+
